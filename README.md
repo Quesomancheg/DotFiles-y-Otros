@@ -25,9 +25,9 @@ similares en otras distribuciones.
 ● Brightnessctl o Light: Para el control de brillo desde el teclado.
 ● Pactl (pulseaudio-utils): Para el control de volumen.
 
-Instalación rápida en Fedora
-sudo dnf install sway waybar wofi foot swaybg swaylock grim slurp mako
-brightnessctl pulseaudio-utils
+Instalación rápida en Fedora:
+sudo dnf installsway waybar wofi foot swaybg swaylock grim slurp mako brightnessctl pulseaudio-utils
+sudo dnf copr enable zhangyi6324/noctalia-shell
 
 Notas Adicionales:
 Asegúrate de dar permisos de ejecución a los scripts en la carpeta scritps para que los atajos
